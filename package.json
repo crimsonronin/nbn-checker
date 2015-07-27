@@ -1,0 +1,22 @@
+{
+  "name": "nbn-house-finder",
+  "version": "0.0.1",
+  "description": "find houses for rent or to buy with the NBN",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.1",
+    "lodash": "^3.10.0",
+    "nightmare": "^1.8.2",
+    "q": "^1.4.1",
+    "scraperjs": "^0.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nbn"
+  ],
+  "author": "joshstuartx@gmail.com",
+  "license": "ISC"
+}
