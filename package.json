@@ -1,7 +1,12 @@
 {
-  "name": "nbn-house-finder",
+  "name": "nbn-checker",
   "version": "0.0.1",
   "description": "find houses for rent or to buy with the NBN",
+  "author": "Josh Stuart <joshstuartx@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crimsonronin/nbn-checker.git"
+  },
   "main": "server.js",
   "dependencies": {
     "cheerio": "^0.19.0",
@@ -19,7 +24,5 @@
   },
   "keywords": [
     "nbn"
-  ],
-  "author": "joshstuartx@gmail.com",
-  "license": "ISC"
+  ]
 }
